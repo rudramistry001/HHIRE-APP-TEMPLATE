@@ -1,0 +1,3 @@
+import '../../../core/app_export.dart';import 'specialization_item_model.dart';class SpeciallizationModel {List<SpecializationItemModel> specializationItemList = [SpecializationItemModel(designCreative:ImageConstant.imgCheckmark,designCreative1: "Design & Creative"),SpecializationItemModel(designCreative:ImageConstant.imgPlay,designCreative1: "Development & IT"),SpecializationItemModel(designCreative:ImageConstant.imgPlay,designCreative1: "Engineering & Architecture"),SpecializationItemModel(designCreative:ImageConstant.imgPlay,designCreative1: "Sales & Marketing"),SpecializationItemModel(designCreative:ImageConstant.imgPlay,designCreative1: "Writing"),SpecializationItemModel(designCreative:ImageConstant.imgPlay,designCreative1: "Finance")];
+
+ }
